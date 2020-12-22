@@ -12,7 +12,7 @@ This script requires administrative priviliges to run. You can simply execute it
 by right clicking it > `Run as Administrator`.
 
 #### Installation and configuration changes
-After starting the script offers selection of *Windows Insider Program* rings.
+After starting the script offers selection of *Windows Insider Program* channels.
 To make a selection, press a letter coresponding to option you choose and press
 ENTER.
 
