@@ -23,7 +23,7 @@ pause
 goto :EOF
 
 :START_SCRIPT
-set "scriptver=2.0.3"
+set "scriptver=2.4.0"
 set "FlightSigningEnabled=0"
 bcdedit /enum {current} | findstr /I /R /C:"^flightsigning *Yes$" >NUL 2>&1
 IF %ERRORLEVEL% EQU 0 set "FlightSigningEnabled=1"
